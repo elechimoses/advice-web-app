@@ -32,7 +32,11 @@ class App extends React.Component{
                             </span>
                         </button>
                </div>
-
+            <div className="footer">
+                <div classname="footer-text">
+                    <h3>built with Love by Moses Elechi</h3>
+                </div>
+            </div>
            </div>
         );
     }
